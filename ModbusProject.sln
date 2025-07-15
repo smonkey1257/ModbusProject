@@ -5,6 +5,8 @@ VisualStudioVersion = 17.14.36212.18 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModbusProject", "ModbusProject\ModbusProject.csproj", "{0F8F397A-1870-4E11-8483-94274380C4FE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModbusRTULib", "ModbusRTULib\ModbusRTULib.csproj", "{B738D190-F48A-4210-A8CA-9B04CB552B60}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{0F8F397A-1870-4E11-8483-94274380C4FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F8F397A-1870-4E11-8483-94274380C4FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F8F397A-1870-4E11-8483-94274380C4FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B738D190-F48A-4210-A8CA-9B04CB552B60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B738D190-F48A-4210-A8CA-9B04CB552B60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B738D190-F48A-4210-A8CA-9B04CB552B60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B738D190-F48A-4210-A8CA-9B04CB552B60}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
